@@ -1,6 +1,6 @@
 # This is a blacklist feed for websites that cannot be reliably blocked using safe search due to DNS records being transmitted over HTTPS. As a result, users may be able to bypass the block. To ensure that these websites are blocked, they have been included in this feed.
 
-yahoo.com
+search.yahoo.com
 ecosia.org
 startpage.com
 dogpile.com
@@ -27,3 +27,22 @@ jayde.com
 ilor.com
 ez2find.com
 searchuk.com
+gibiru.com
+sogou.com
+qwant.com
+searchencrypt.com
+mojeek.com
+search.becovi.com
+ahmia.fi
+brave.com
+you.com
+quintura.com
+rambler.ru
+scrubtheweb.com
+goo.ne.jp
+search.walla.co.il
+similarsitesearch.com
+onesearch.com
+anoox.com
+metager.org
+infinitysearch.co
